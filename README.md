@@ -1,3 +1,3 @@
-**Astrax.in**
+# astrax.in
 
-Website of AstraX 2021
+For administrative details, contact shreyas@astrax.in
